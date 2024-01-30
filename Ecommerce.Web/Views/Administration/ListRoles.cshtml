@@ -1,0 +1,82 @@
+﻿@using Microsoft.AspNetCore.Identity;
+@model IEnumerable<IdentityRole>
+
+@{
+    ViewData["Title"] = "Application Roles";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<html>
+<head>
+    <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Material+Icons" rel="stylesheet">
+    <meta name="viewport" content="width=device-width" />
+</head>
+<body>
+    <h3>@ViewData["Title"]</h3>
+    <hr />
+    <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+        <a asp-controller="Administration" asp-action="CreateRole" class="btn btn-success" data-toggle="modal">
+            <i class="material-icons">&#xE147;</i>
+            <span>Add Role</span>
+        </a>
+    </div>
+    <table class="table table-responsive table-bordered table-hover">
+        <thead>
+            <tr class="table-active">
+                <th>
+                    @Html.DisplayNameFor(model => model.Id)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Name)
+                </th>
+                <th>
+                    Actions
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null && Model.Any())
+            {
+                @foreach (var employee in Model)
+                {
+                    <tr>
+                        <td>@employee.Id</td>
+                        <td>@employee.Name</td>
+                        <td class="text-center">
+                            <div class="btn-group btn-group-sm">
+                                <div class="col-md-12">
+                                    <div class="form-group">
+                                        <a asp-controller="Administration" asp-action="EditRole" asp-route-id="@employee.Id" class="btn btn-primary">Edit</a>
+                                      
+                                        <div class="submitting"></div>
+                                    </div>
+                                </div>
+                            
+                                <div class="col-md-12">
+                                    <div class="form-group">
+                                        <a asp-controller="Administration" asp-action="DeleteRole" asp-route-id="@employee.Id" class="btn btn-danger">Delete</a>
+                            
+                                        <div class="submitting"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="8">
+                        <div>No Employee Added yet!</div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</body>
+</html>
+
+

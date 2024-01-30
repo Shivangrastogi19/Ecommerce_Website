@@ -1,0 +1,2049 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Ecommerce.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Ecommerce.Web.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\.DS_Store"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\extra-libs\\sparkline\\sparkline.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\extra-libs\\sparkline\\sparkline.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\images\\custom-select.png",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\images\\custom-select.png"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\images\\free-demo.jpg",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\images\\free-demo.jpg"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\images\\logo-icon.png",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\images\\logo-icon.png"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\images\\logo-light-icon.png",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\images\\logo-light-icon.png"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\images\\logo-light-text.png",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\images\\logo-light-text.png"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\images\\logo-text.png",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\images\\logo-text.png"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\images\\nice-lite-lp-img.jpg",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\images\\nice-lite-lp-img.jpg"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\images\\nice-pro-lp-img.jpg",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\images\\nice-pro-lp-img.jpg"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\images\\pro-demo.jpg",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\images\\pro-demo.jpg"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\images\\users\\1.jpg",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\images\\users\\1.jpg"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\images\\users\\2.jpg",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\images\\users\\2.jpg"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\images\\users\\4.jpg",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\images\\users\\4.jpg"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\images\\users\\5.jpg",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\images\\users\\5.jpg"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\.DS_Store"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\chartist-plugin-tooltips\\dist\\chartist-plugin-tooltip.css",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\chartist-plugin-tooltips\\dist\\chartist-plugin-tooltip.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\chartist-plugin-tooltips\\dist\\chartist-plugin-tooltip.min.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\chartist-plugin-tooltips\\dist\\chartist-plugin-tooltip.min.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\chartist-plugin-tooltips\\dist\\chartist-plugin-tooltip.min.js.map",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\chartist-plugin-tooltips\\dist\\chartist-plugin-tooltip.min.js.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\chartist\\dist\\chartist.min.css",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\chartist\\dist\\chartist.min.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\chartist\\dist\\chartist.min.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\chartist\\dist\\chartist.min.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\chartist\\dist\\chartist.min.js.map",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\chartist\\dist\\chartist.min.js.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\jquery\\dist\\core.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\jquery\\dist\\core.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\ender.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\ender.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\af.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\af.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\ar-dz.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\ar-dz.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\ar-kw.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\ar-kw.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\ar-ly.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\ar-ly.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\ar-ma.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\ar-ma.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\ar-sa.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\ar-sa.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\ar-tn.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\ar-tn.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\ar.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\ar.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\az.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\az.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\be.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\be.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\bg.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\bg.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\bm.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\bm.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\bn.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\bn.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\bo.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\bo.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\br.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\br.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\bs.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\bs.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\ca.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\ca.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\cs.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\cs.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\cv.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\cv.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\cy.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\cy.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\da.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\da.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\de-at.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\de-at.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\de-ch.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\de-ch.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\de.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\de.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\dv.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\dv.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\el.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\el.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\en-au.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\en-au.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\en-ca.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\en-ca.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\en-gb.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\en-gb.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\en-ie.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\en-ie.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\en-il.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\en-il.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\en-nz.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\en-nz.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\eo.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\eo.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\es-do.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\es-do.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\es-us.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\es-us.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\es.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\es.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\et.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\et.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\eu.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\eu.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\fa.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\fa.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\fi.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\fi.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\fo.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\fo.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\fr-ca.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\fr-ca.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\fr-ch.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\fr-ch.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\fr.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\fr.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\fy.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\fy.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\gd.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\gd.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\gl.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\gl.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\gom-latn.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\gom-latn.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\gu.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\gu.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\he.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\he.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\hi.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\hi.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\hr.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\hr.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\hu.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\hu.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\hy-am.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\hy-am.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\id.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\id.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\is.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\is.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\it.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\it.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\ja.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\ja.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\jv.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\jv.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\ka.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\ka.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\kk.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\kk.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\km.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\km.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\kn.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\kn.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\ko.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\ko.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\ky.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\ky.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\lb.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\lb.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\lo.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\lo.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\lt.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\lt.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\lv.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\lv.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\me.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\me.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\mi.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\mi.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\mk.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\mk.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\ml.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\ml.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\mn.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\mn.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\mr.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\mr.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\ms-my.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\ms-my.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\ms.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\ms.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\mt.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\mt.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\my.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\my.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\nb.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\nb.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\ne.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\ne.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\nl-be.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\nl-be.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\nl.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\nl.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\nn.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\nn.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\pa-in.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\pa-in.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\pl.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\pl.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\pt-br.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\pt-br.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\pt.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\pt.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\ro.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\ro.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\ru.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\ru.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\sd.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\sd.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\se.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\se.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\si.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\si.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\sk.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\sk.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\sl.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\sl.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\sq.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\sq.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\sr-cyrl.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\sr-cyrl.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\sr.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\sr.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\ss.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\ss.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\sv.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\sv.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\sw.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\sw.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\ta.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\ta.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\te.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\te.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\tet.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\tet.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\tg.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\tg.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\th.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\th.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\tl-ph.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\tl-ph.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\tlh.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\tlh.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\tr.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\tr.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\tzl.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\tzl.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\tzm-latn.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\tzm-latn.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\tzm.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\tzm.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\ug-cn.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\ug-cn.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\uk.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\uk.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\ur.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\ur.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\uz-latn.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\uz-latn.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\uz.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\uz.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\vi.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\vi.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\x-pseudo.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\x-pseudo.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\yo.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\yo.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\zh-cn.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\zh-cn.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\zh-hk.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\zh-hk.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\locale\\zh-tw.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\locale\\zh-tw.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\min\\locales.min.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\min\\locales.min.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\min\\moment-with-locales.min.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\min\\moment-with-locales.min.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\min\\moment.min.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\min\\moment.min.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\moment.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\moment.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\moment\\package.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\moment\\package.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\popper.js\\dist\\esm\\popper-utils.min.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\popper.js\\dist\\esm\\popper-utils.min.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\popper.js\\dist\\esm\\popper.min.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\popper.js\\dist\\esm\\popper.min.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\popper.js\\dist\\popper-utils.min.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\popper.js\\dist\\popper-utils.min.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\popper.js\\dist\\popper.min.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\popper.js\\dist\\popper.min.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\popper.js\\dist\\umd\\popper-utils.min.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\popper.js\\dist\\umd\\popper-utils.min.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\popper.js\\dist\\umd\\popper.min.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\popper.js\\dist\\umd\\popper.min.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\assets\\libs\\popper.js\\dist\\umd\\popper.min.js.map",
+      "PackagePath": "staticwebassets\\AdminPannel\\assets\\libs\\popper.js\\dist\\umd\\popper.min.js.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\.DS_Store"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\StyleSheet.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\material-design-iconic-font\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\material-design-iconic-font\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\material-design-iconic-font\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\material-design-iconic-font\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\material-design-iconic-font\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\material-design-iconic-font\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.svg",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.svg"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\themify-icons\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\themify-icons\\fonts\\themify.eot"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\themify-icons\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\themify-icons\\fonts\\themify.svg"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\themify-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\themify-icons\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\themify-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\themify-icons\\fonts\\themify.woff"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\themify-icons\\ie7\\ie7.css",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\themify-icons\\ie7\\ie7.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\themify-icons\\ie7\\ie7.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\themify-icons\\ie7\\ie7.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\themify-icons\\themify-icons.css",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\themify-icons\\themify-icons.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\themify-icons\\themify-icons.less",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\themify-icons\\themify-icons.less"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\css\\weather-icons-core.css",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\css\\weather-icons-core.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\css\\weather-icons-variables.css",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\css\\weather-icons-variables.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\css\\weather-icons-wind.css",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\css\\weather-icons-wind.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\css\\weather-icons-wind.min.css",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\css\\weather-icons-wind.min.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\css\\weather-icons.css",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\css\\weather-icons.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\css\\weather-icons.min.css",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\css\\weather-icons.min.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.eot",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.eot"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.svg",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.svg"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.ttf",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.ttf"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.woff",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.woff"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.woff2",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.woff2"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\css\\variables-beaufort.css",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\css\\variables-beaufort.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\css\\variables-day.css",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\css\\variables-day.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\css\\variables-direction.css",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\css\\variables-direction.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\css\\variables-misc.css",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\css\\variables-misc.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\css\\variables-moon.css",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\css\\variables-moon.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\css\\variables-neutral.css",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\css\\variables-neutral.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\css\\variables-night.css",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\css\\variables-night.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\css\\variables-time.css",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\css\\variables-time.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\css\\variables-wind-names.css",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\css\\variables-wind-names.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-beaufort.less",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-beaufort.less"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-day.less",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-day.less"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-direction.less",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-direction.less"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-misc.less",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-misc.less"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-moon-aliases.less",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-moon-aliases.less"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-moon.less",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-moon.less"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-neutral.less",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-neutral.less"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-night.less",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-night.less"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-time.less",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-time.less"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-wind-aliases.less",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-wind-aliases.less"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-wind-degrees.less",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-wind-degrees.less"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-wind.less",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-wind.less"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\icon-variables\\variables-beaufort.less",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\icon-variables\\variables-beaufort.less"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\icon-variables\\variables-day.less",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\icon-variables\\variables-day.less"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\icon-variables\\variables-direction.less",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\icon-variables\\variables-direction.less"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\icon-variables\\variables-misc.less",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\icon-variables\\variables-misc.less"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\icon-variables\\variables-moon.less",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\icon-variables\\variables-moon.less"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\icon-variables\\variables-neutral.less",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\icon-variables\\variables-neutral.less"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\icon-variables\\variables-night.less",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\icon-variables\\variables-night.less"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\icon-variables\\variables-time.less",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\icon-variables\\variables-time.less"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\icon-variables\\variables-wind-names.less",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\icon-variables\\variables-wind-names.less"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\mappings\\wi-forecast-io.less",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\mappings\\wi-forecast-io.less"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\mappings\\wi-owm.less",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\mappings\\wi-owm.less"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\mappings\\wi-wmo4680.less",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\mappings\\wi-wmo4680.less"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\mappings\\wi-yahoo.less",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\mappings\\wi-yahoo.less"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\weather-icons-classes.less",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\weather-icons-classes.less"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\weather-icons-core.less",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\weather-icons-core.less"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\weather-icons-variables.less",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\weather-icons-variables.less"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\weather-icons-wind.less",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\weather-icons-wind.less"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\weather-icons-wind.min.less",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\weather-icons-wind.min.less"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\weather-icons.less",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\weather-icons.less"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\weather-icons.min.less",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\less\\weather-icons.min.less"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-beaufort.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-beaufort.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-day.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-day.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-direction.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-direction.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-misc.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-misc.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-moon-aliases.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-moon-aliases.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-moon.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-moon.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-neutral.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-neutral.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-night.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-night.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-time.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-time.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-wind-aliases.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-wind-aliases.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-wind-degrees.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-wind-degrees.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-wind.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-wind.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-beaufort.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-beaufort.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-day.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-day.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-direction.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-direction.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-misc.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-misc.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-moon.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-moon.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-neutral.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-neutral.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-night.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-night.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-time.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-time.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-wind-names.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-wind-names.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\mappings\\wi-forecast-io.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\mappings\\wi-forecast-io.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\mappings\\wi-owm.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\mappings\\wi-owm.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\mappings\\wi-wmo4680.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\mappings\\wi-wmo4680.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\mappings\\wi-yahoo.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\mappings\\wi-yahoo.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\weather-icons-classes.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\weather-icons-classes.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\weather-icons-core.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\weather-icons-core.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\weather-icons-variables.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\weather-icons-variables.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\weather-icons-wind.min.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\weather-icons-wind.min.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\weather-icons-wind.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\weather-icons-wind.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\weather-icons.min.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\weather-icons.min.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\weather-icons.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\icons\\weather-icons\\sass\\weather-icons.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\style.css",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\style.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\style.min - Copy.css",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\style.min - Copy.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\css\\style.min.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\js\\custom.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\js\\custom.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\js\\custom.min.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\js\\custom.min.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\js\\pages\\dashboards\\dashboard1.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\js\\pages\\dashboards\\dashboard1.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\js\\sidebarmenu.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\js\\sidebarmenu.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\dist\\js\\waves.js",
+      "PackagePath": "staticwebassets\\AdminPannel\\dist\\js\\waves.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\nice-html\\ltr\\error-404.html",
+      "PackagePath": "staticwebassets\\AdminPannel\\nice-html\\ltr\\error-404.html"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\nice-html\\ltr\\form-basic.html",
+      "PackagePath": "staticwebassets\\AdminPannel\\nice-html\\ltr\\form-basic.html"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\nice-html\\ltr\\icon-material.html",
+      "PackagePath": "staticwebassets\\AdminPannel\\nice-html\\ltr\\icon-material.html"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\nice-html\\ltr\\index.html",
+      "PackagePath": "staticwebassets\\AdminPannel\\nice-html\\ltr\\index.html"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\nice-html\\ltr\\pages-profile.html",
+      "PackagePath": "staticwebassets\\AdminPannel\\nice-html\\ltr\\pages-profile.html"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\nice-html\\ltr\\starter-kit.html",
+      "PackagePath": "staticwebassets\\AdminPannel\\nice-html\\ltr\\starter-kit.html"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\nice-html\\ltr\\table-basic.html",
+      "PackagePath": "staticwebassets\\AdminPannel\\nice-html\\ltr\\table-basic.html"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\.DS_Store"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\_components.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\_components.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\_custom.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\_custom.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\_pages.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\_pages.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\_responsive.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\_responsive.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\_variable.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\_variable.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\.DS_Store"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\_accordion.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\_accordion.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\_containers.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\_containers.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\_helpers.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\_helpers.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\forms\\_labels.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\forms\\_validation.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\helpers\\_position.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\mixins\\_container.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\utilities\\_api.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\core\\_core.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\core\\_core.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\core\\animation\\_animation.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\core\\animation\\_animation.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\core\\breadcrumb\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\core\\breadcrumb\\_breadcrumb.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\core\\buttons\\_buttons.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\core\\buttons\\_buttons.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\core\\extra\\_extra.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\core\\extra\\_extra.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\core\\layout\\_layout.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\core\\layout\\_layout.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\core\\loader\\_spinner.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\core\\loader\\_spinner.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\core\\scafholdings\\_scafholding.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\core\\scafholdings\\_scafholding.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\core\\sidebar\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\core\\sidebar\\_sidebar.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\core\\tables\\_table-pages.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\core\\tables\\_table-pages.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\core\\topbar\\_header.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\core\\topbar\\_header.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\core\\wave-effects\\_wave-effects.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\core\\wave-effects\\_wave-effects.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\mixins\\_padding-margin.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\mixins\\_padding-margin.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\pages\\dashboards\\_dashboard.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\pages\\dashboards\\_dashboard.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\style.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\theme-colors\\_theme-colors.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\theme-colors\\_theme-colors.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\widgets\\_comments.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\widgets\\_comments.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\AdminPannel\\scss\\widgets\\_widgets.scss",
+      "PackagePath": "staticwebassets\\AdminPannel\\scss\\widgets\\_widgets.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\Registration_Form\\css\\style.css",
+      "PackagePath": "staticwebassets\\Registration_Form\\css\\style.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\Registration_Form\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\Registration_Form\\css\\style.css.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\Registration_Form\\css\\style.scss",
+      "PackagePath": "staticwebassets\\Registration_Form\\css\\style.scss"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\Registration_Form\\fonts\\material-design-iconic-font\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\Registration_Form\\fonts\\material-design-iconic-font\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\Registration_Form\\fonts\\material-design-iconic-font\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\Registration_Form\\fonts\\material-design-iconic-font\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\Registration_Form\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\Registration_Form\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\Registration_Form\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\Registration_Form\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\Registration_Form\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\Registration_Form\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\Registration_Form\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\Registration_Form\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\Registration_Form\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\Registration_Form\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\Registration_Form\\fonts\\poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\Registration_Form\\fonts\\poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\Registration_Form\\fonts\\poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\Registration_Form\\fonts\\poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\Registration_Form\\images\\bg-registration-form-1.jpg",
+      "PackagePath": "staticwebassets\\Registration_Form\\images\\bg-registration-form-1.jpg"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\Registration_Form\\images\\registration-form-1.jpg",
+      "PackagePath": "staticwebassets\\Registration_Form\\images\\registration-form-1.jpg"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\Registration_Form\\index.html",
+      "PackagePath": "staticwebassets\\Registration_Form\\index.html"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\Techpro\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Ecommerce.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Ecommerce.Web.props",
+      "PackagePath": "build\\Ecommerce.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Ecommerce.Web.props",
+      "PackagePath": "buildMultiTargeting\\Ecommerce.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Ecommerce.Web.props",
+      "PackagePath": "buildTransitive\\Ecommerce.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

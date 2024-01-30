@@ -1,0 +1,49 @@
+﻿@model Models.Login;
+
+@{
+	Layout = "";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Login</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<!-- MATERIAL DESIGN ICONIC FONT -->
+	<link rel="stylesheet" href="~/Registration_Form/fonts/material-design-iconic-font/css/material-design-iconic-font.min.css">
+
+	<!-- STYLE CSS -->
+	<link rel="stylesheet" href="~/Registration_Form/css/style.css">
+</head>
+
+<body>
+
+	<div class="wrapper" style="background-image: url('~/Registration_Form/images/bg-registration-form-1.jpg');">
+		<div class="inner">
+			<div class="image-holder">
+				<img src="~/Registration_Form/images/registration-form-1.jpg" alt="">
+			</div>
+			<form method="post" asp-action="Login">
+				<h3>Login</h3>
+				<div class="form-wrapper">
+					<input asp-for="Email" type="text" placeholder="Email" class="form-control">
+					<i class="zmdi zmdi-email"></i>
+				</div>
+				<div class="form-wrapper">
+					<input asp-for="Password" type="password" placeholder="Password" class="form-control">
+					<i class="zmdi zmdi-lock"></i>
+				</div>
+				<button type="submit">
+					Login
+					<i class="zmdi zmdi-arrow-right"></i>
+				</button>
+				<p>Don't have account with us?<a asp-controller="Account" asp-action="Registration">Register</a></p>
+			</form>
+		</div>
+	</div>
+
+</body>
+</html>
+

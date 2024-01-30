@@ -1,0 +1,44 @@
+﻿body {
+    height: 100vh;
+    background-color: rgb(25, 24, 21);
+    @include object-center;
+    a: hover{
+                text-decoration: none;
+            }
+}
+
+.profile-pic {
+    color: transparent;
+    transition: all .3s ease;
+    @include object-center;
+    position: relative;
+    transition: all .3s ease;
+input{
+    display: none;
+}
+
+img {
+    position: absolute;
+    object-fit: cover;
+    width: $circleSize;
+    height: $circleSize;
+    box-shadow: $shadow;
+    border-radius: $radius;
+    z-index: 0;
+}
+.-label {
+    cursor: pointer;
+    height: $circleSize;
+    width: $circleSize;
+}
+&:hover {
+    .-label{
+    @include object-center;
+    background-color: rgba(0,0,0,.8);
+    z-index: 10000;
+    color: $fontColor;
+    transition: background-color .2s ease-in-out;
+    border-radius: $radius;
+    margin-bottom: 0;
+}
+}

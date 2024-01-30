@@ -1,0 +1,17 @@
+F:\Techpro\Ecommerce.Web\Services\bin\Debug\net7.0\Services.deps.json
+F:\Techpro\Ecommerce.Web\Services\bin\Debug\net7.0\Services.dll
+F:\Techpro\Ecommerce.Web\Services\bin\Debug\net7.0\Services.pdb
+F:\Techpro\Ecommerce.Web\Services\bin\Debug\net7.0\Data.dll
+F:\Techpro\Ecommerce.Web\Services\bin\Debug\net7.0\Models.dll
+F:\Techpro\Ecommerce.Web\Services\bin\Debug\net7.0\Data.pdb
+F:\Techpro\Ecommerce.Web\Services\bin\Debug\net7.0\Models.pdb
+F:\Techpro\Ecommerce.Web\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+F:\Techpro\Ecommerce.Web\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\Techpro\Ecommerce.Web\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+F:\Techpro\Ecommerce.Web\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+F:\Techpro\Ecommerce.Web\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
+F:\Techpro\Ecommerce.Web\Services\obj\Debug\net7.0\Services.csproj.CopyComplete
+F:\Techpro\Ecommerce.Web\Services\obj\Debug\net7.0\Services.dll
+F:\Techpro\Ecommerce.Web\Services\obj\Debug\net7.0\refint\Services.dll
+F:\Techpro\Ecommerce.Web\Services\obj\Debug\net7.0\Services.pdb
+F:\Techpro\Ecommerce.Web\Services\obj\Debug\net7.0\ref\Services.dll
